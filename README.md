@@ -38,6 +38,3 @@ Programs Included:
 
   C Programming
 
----
-
-Practice completed as part of my placement preparation and Wipro coding practice.
